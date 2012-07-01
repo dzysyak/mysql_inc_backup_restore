@@ -1,0 +1,4 @@
+MySQL incremental backup and restore scripts implemented in PHP.
+
+You can find configuration description here:
+http://erlycoder.com/109/php-mysql-incremental-backup-restore-implementation-download-the-script-
